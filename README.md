@@ -22,4 +22,5 @@ THEN I am again presented with current and future conditions for that city
 Mock-Up
 The following image shows the web application's appearance and functionality:
 
-## Mock-up
+## Mock-up!
+[Screenshot 2022-07-14 222418](https://user-images.githubusercontent.com/106194588/179134689-6affa606-84a7-403d-90bc-e84c31e756da.png)
